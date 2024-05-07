@@ -2388,4 +2388,3 @@ local Button = WordTab:CreateButton({
    --script
    end,
 })
-
